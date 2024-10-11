@@ -13,7 +13,7 @@
     <img align="center" src="https://img.shields.io/badge/-Aldy%20Faizal%20-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/aldyfaisal"/>
   </a>
   <a href="mailto:aldyfaisal80@gmail.com">
-    <img align="center" src="https://img.shields.io/badge/-aldyfaisal@example.com-c14438?style=flat-square&logo=Gmail&logoColor=white"/>
+    <img align="center" src="https://img.shields.io/badge/-aldyfaisal80@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white"/>
   </a>
 </p>
 
