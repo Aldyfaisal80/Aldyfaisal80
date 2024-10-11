@@ -20,8 +20,14 @@
 ---
 
 <h3 align="center">💻 My GitHub Stats</h3>
-![Aldyfaisal80's Stats](https://github-readme-stats.vercel.app/api?username=Aldyfaisal80&theme=vision-friendly-dark&show_icons=true&hide_border=false&count_private=true)
-![Aldyfaisal80's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aldyfaisal80&theme=vision-friendly-dark&hide_border=false)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aldyfaisal80&theme=vision-friendly-dark&show_icons=true&hide_border=false&count_private=true" alt="Aldyfaisal80's Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aldyfaisal80&theme=vision-friendly-dark&hide_border=false" alt="Aldyfaisal80's Streak"/>
+</p>
+
 ---
 
 <h4 align="center">Thanks for stopping by, and happy coding! 😄</h4>
