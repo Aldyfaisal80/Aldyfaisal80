@@ -9,10 +9,10 @@
 
 <h3 align="center">🚀 Connect with me:</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/aldyfaisal" target="blank">
+  <a href="https://www.linkedin.com/in/aldy-ibnu-faizal/" target="blank">
     <img align="center" src="https://img.shields.io/badge/-Aldy%20Faizal%20-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/aldyfaisal"/>
   </a>
-  <a href="mailto:aldyfaisal@example.com">
+  <a href="mailto:aldyfaisal80@gmail.com">
     <img align="center" src="https://img.shields.io/badge/-aldyfaisal@example.com-c14438?style=flat-square&logo=Gmail&logoColor=white"/>
   </a>
 </p>
