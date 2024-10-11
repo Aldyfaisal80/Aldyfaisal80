@@ -1,16 +1,14 @@
-## Hi there 👋
+how to add readme in github profile<h1 align="center">Hi 👋, I'm Aldy Ibnu Faizal</h1>
+<h3 align="center">'m a passionate developer with experience in **frontend** **development**, particularly in **React**. I enjoy building web applications, learning new technologies</h3>
 
-<!--
-**Aldyfaisal80/Aldyfaisal80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aldyfaisal80&label=Profile%20views&color=0e75b6&style=flat" alt="aldyfaisal80" /> </p>
 
-Here are some ideas to get you started:
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aldyfaisal80&show_icons=true&locale=en&layout=compact" alt="aldyfaisal80" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aldyfaisal80&show_icons=true&locale=en" alt="aldyfaisal80" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aldyfaisal80&" alt="aldyfaisal80" /></p>
