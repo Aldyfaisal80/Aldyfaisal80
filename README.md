@@ -12,3 +12,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aldyfaisal80&show_icons=true&locale=en" alt="aldyfaisal80" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aldyfaisal80&" alt="aldyfaisal80" /></p>
+
+![Aldyfaisal80's Stats](https://github-readme-stats.vercel.app/api?username=Aldyfaisal80&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
