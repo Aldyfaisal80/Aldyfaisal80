@@ -20,17 +20,7 @@
 ---
 
 <h3 align="center">💻 My GitHub Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aldyfaisal80&theme=vue-dark&show_icons=true&hide_border=false&count_private=true" alt="aldyfaisal80 GitHub stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aldyfaisal80&theme=vue-dark&hide_border=false" alt="aldyfaisal80 streaks" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldyfaisal80&theme=vue-dark&layout=compact&hide_border=false&langs_count=6" alt="aldyfaisal80 top languages" />
-</p>
+![Aldyfaisal80's Stats](https://github-readme-stats.vercel.app/api?username=Aldyfaisal80&theme=vision-friendly-dark&show_icons=true&hide_border=false&count_private=true)
 
 ---
 
