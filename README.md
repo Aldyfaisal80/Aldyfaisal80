@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aldy Ibnu Faizal</h1>
-<h3 align="center">A passionate frontend developer specializing in <strong>React</strong> and web technologies. I love building responsive web applications, learning new technologies, and contributing to open-source projects.</h3>
+<h3 align="center">A passionate frontend developer web technologies. I love building responsive web applications, learning new technologies, and contributing to open-source projects.</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aldyfaisal80&label=Profile%20views&color=0e75b6&style=flat" alt="aldyfaisal80" />
